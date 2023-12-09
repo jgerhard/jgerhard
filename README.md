@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgerhard
 - 👀 I’m interested in machine learning, statistics and finance
-- 🌱 I’m currently learning python, SAS, statistics
+- 🌱 I’m currently learning python, r, statistics
 - 💞️ I’m looking to collaborate on pet projects
 - 📫 How to reach me via mail, linkedin, xing, you name it...
 
